@@ -1,0 +1,44 @@
+.news {
+    padding: 2rem;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    border-radius: 20px;
+    margin: 2rem;
+    font-size: 20px;
+  }
+  .news h1 span{
+    font-size: 14px;
+  }
+  .news h1 {
+    font-size: 2.5rem;
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  
+  .news ul {
+    list-style: square;
+    margin: 1rem 0 1rem 1.5rem;
+  }
+  
+  .news li {
+    margin: 0.5rem 0;
+  }
+  
+  .news p {
+    margin: 1rem 0;
+    color: #ffffff;
+    text-align: center; /* Aligns the introductory paragraph */
+  }
+  
+  .news ul li {
+    color: #ffffff; /* Ensures the list items are visible */
+  }
+  .news-headlines{
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    background-color: #ffffff1d;
+    padding: 20px 40px;
+    border-radius: 20px;
+    min-height: 300px;
+  }
